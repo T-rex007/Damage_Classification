@@ -1,1 +1,3 @@
 Data/
+Models/crack_classifier.h5
+Models/weights.h5
